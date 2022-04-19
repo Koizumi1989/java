@@ -16,3 +16,5 @@ public class Capsule01 {
         System.out.println("変更した名前は" + human2.getName() + "です。");
     }
 }
+
+
